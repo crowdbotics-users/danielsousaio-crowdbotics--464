@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT danielsousaio_crowdbotics__464.wsgi:application
